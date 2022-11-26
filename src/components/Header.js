@@ -75,7 +75,7 @@ const Header = () => {
   return (
     <Box
       sx={{
-        height: "100vh",
+        height: "max-content",
         backgroundColor: mode === darkTheme ? "#0d0d0d" : "#fff",
       }}
     >
